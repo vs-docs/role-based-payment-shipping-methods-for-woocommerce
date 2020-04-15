@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
+* [F.A.Q](f.a.q.md)
 
 ## PURCHASE / SUPPORT
 
