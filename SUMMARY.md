@@ -2,6 +2,7 @@
 
 * [Intro](README.md)
 * [F.A.Q](f.a.q.md)
+* [Change Log](change-log.md)
 
 ## PURCHASE / SUPPORT
 
