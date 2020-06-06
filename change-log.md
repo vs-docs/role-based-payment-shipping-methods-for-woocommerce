@@ -1,6 +1,6 @@
 # Change Log
 
-## 2.2 - 24/04/2020
+## 2.2 - 06/06/2020
 * Performance improvement
 * Updated VSP-Framework : `0.8.9.1`
 * Updated WPOnion `1.5.1`
