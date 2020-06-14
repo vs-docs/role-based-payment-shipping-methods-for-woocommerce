@@ -1,4 +1,7 @@
 # Change Log
+## 2.3 - 14/06/2020
+* Fixed : https://github.com/wponion/wponion/issues/252
+* Updated WPOnion To `1.5.2`
 
 ## 2.2 - 06/06/2020
 * Performance improvement
